@@ -86,7 +86,7 @@
       <workItem from="1583923588144" duration="2166000" />
       <workItem from="1583929397434" duration="167000" />
       <workItem from="1584691240410" duration="9967000" />
-      <workItem from="1584952280863" duration="875000" />
+      <workItem from="1584952280863" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="create web project">
       <created>1583923929136</created>
@@ -151,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584952973493</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="仓库管理页面">
+      <created>1584953230756</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584953230756</updated>
+    </task>
+    <task id="LOCAL-00011" summary="仓库管理页面">
+      <created>1584953389861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584953389861</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,20 +181,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="仓库管理页面" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="333" y="131" key="CommitChangelistDialog2" timestamp="1584953230536">
+    <state x="440" y="180" key="#Web_Browsers" timestamp="1584953754669">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="440" y="180" key="#Web_Browsers/0.23.1680.984@0.23.1680.984" timestamp="1584953754669" />
+    <state x="333" y="131" key="CommitChangelistDialog2" timestamp="1584953389714">
       <screen x="0" y="23" width="1680" height="981" />
     </state>
     <state x="380" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584773683301" />
-    <state x="333" y="131" key="CommitChangelistDialog2/0.23.1680.981@0.23.1680.981" timestamp="1584953230536" />
+    <state x="333" y="131" key="CommitChangelistDialog2/0.23.1680.981@0.23.1680.981" timestamp="1584953389714" />
     <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1583998669798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583998669798" />
-    <state x="483" y="264" key="Vcs.Push.Dialog.v2" timestamp="1584953236141">
+    <state x="662" y="418" key="Github.ShareDialog" timestamp="1584953750272">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="662" y="418" key="Github.ShareDialog/0.23.1680.984@0.23.1680.984" timestamp="1584953750272" />
+    <state x="483" y="264" key="Vcs.Push.Dialog.v2" timestamp="1584953391978">
       <screen x="0" y="23" width="1680" height="981" />
     </state>
     <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584943370138" />
-    <state x="483" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.981@0.23.1680.981" timestamp="1584953236141" />
+    <state x="483" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.981@0.23.1680.981" timestamp="1584953391978" />
     <state x="559" y="327" key="git4idea.merge.GitPullDialog" timestamp="1584952507478">
       <screen x="0" y="23" width="1680" height="981" />
     </state>
